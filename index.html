@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta chartes="UTF-8">
+    <meta name+="viewport " content="widht=device-widht, initial-scale=1.0">
+    <title>pengelolaan keuangan</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+</body>
+    <div class="container">
+        <h1>pengelolaan keuangan</h1>
+        <img src="Pengertian Finansial_ Jenis, Fungsi, Hingga Tujuannya.jpg" alt="gambar">
+        <form id="finance-form>
+            <label for="type">Tipe Transaksi:</label>
+            <select id="type">
+                <option value="income">pendapatan</option>
+                <option value="expense"></option>
+            </select>
+            <label for="amount">jumlah:</label>
+            <input type="number" id="amount" required>
+            <button type="button" onclick="addtTransaction()">Tambah Transaksi</button>
+         </form>
+         <h2>ringkasan</h2>
+         <div id="summary">
+            <input type="number" id="pendapatan" placeholder="Pendapatan" required>
+            <input type="number" id="pengeluaran" placeholder="pengeluaran" required>
+            <input type="number" id="saldo" placeholder="Saldo" required>
+         </div>
+         <h2>Daftar Transaksi</h2>
+         <u1 id="Transaction-list"></u1>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
