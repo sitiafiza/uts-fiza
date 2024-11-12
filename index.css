@@ -26,10 +26,6 @@ label{
 input, select, button {
     margin-top: 5px;
 }
-#summary {
-    display: table-column;
-    
-}
 button{
     background-color: black ;
     color:aliceblue;
