@@ -10,7 +10,7 @@
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="author" content="TemplatesJungle">
   <meta name="keywords" content="Online Store">
-  <meta name="description" content="Stylish - Shoes Online Store HTML Template">
+  <meta name="description" content="Maza - Shoes Online Store">
 
   <link rel="stylesheet" href="css/vendor.css">
   <link rel="stylesheet" type="text/css" href="style.css">
@@ -631,7 +631,7 @@
           </div>
           <div class="col-lg-3 col-md-12">
             <div class="btn-wrap">
-              <a href="#" class="btn btn-black btn-medium text-uppercase hvr-sweep-to-right">Email me</a>
+              <a href="mailto:iniakunkerja48@gmail.com" class="btn btn-black btn-medium text-uppercase hvr-sweep-to-right">Email me</a>
             </div>
           </div>
         </div>
@@ -643,7 +643,7 @@
       <div class="display-header d-flex align-items-center justify-content-between">
         <h2 class="section-title text-uppercase">Featured Products</h2>
         <div class="btn-right">
-          <a href="index.html" class="d-inline-block text-uppercase text-hover fw-bold">View all</a>
+          <a href="" class="d-inline-block text-uppercase text-hover fw-bold">View all</a>
         </div>
       </div>
       <div class="product-content padding-small">
@@ -1110,9 +1110,9 @@
           <div class="footer-menu">
             <h5 class="widget-title pb-3">Get In Touch</h5>
             <div class="footer-contact-text">
-              <span>Stylish Online Store 123 Main Street, Toulouse - France. </span>
+              <span>maza Online Store Pamekasan - Madura . </span>
               <span> Call us: (+33) 800 456 789-987 </span>
-              <span class="text-hover fw-bold light-border"><a href="mailto:contact@yourwebsite.com">contact@yourwebsite.com</a></span>
+              <span class="text-hover fw-bold light-border"><a href="mailto:iniakunkerja48@gmail.com">iniakunkerja48@gmail.com</a></span>
             </div>
           </div>
         </div>
